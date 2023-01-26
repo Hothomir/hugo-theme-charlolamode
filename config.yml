@@ -7,14 +7,8 @@ theme: charlolamode
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
-          weight: 30
-        - name: Articles
-          url: /articles/
-          weight: 20
-        - name: Projects
-          url: /projects/
+        - name: Graphics
+          url: /graphics/
           weight: 15
 
      # - name: Categories
@@ -48,17 +42,18 @@ params:
           Graphical & DJ Works
         imageUrl: "/images/logo.png"
         imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
-        buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        imageWidth: 330
+        imageHeight: 450
+        
     mainSections:
-      - articles
+      - graphics
 
     socialIcons:
         - name: instagram
           url: "https://www.instagram.com/onna_mule.arts/"
+
+        - name: soundcloud
+          url: "https://soundcloud.com/onna_mule"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
