@@ -42,15 +42,11 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Onna Mule
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
-        
-
-          This is a minimalistic theme template for websites.
-        imageUrl: "/images/profile.png"
+          Graphical & DJ Works
+        imageUrl: "/images/logo.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
@@ -61,12 +57,8 @@ params:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
-        - name: github
-          url: "https://github.com/charlola"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+        - name: instagram
+          url: "https://www.instagram.com/onna_mule.arts/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
