@@ -21,8 +21,6 @@ menu:
 
 
 params:
-    author: Author's Name
-
 
     defaultTheme: auto
     # disableThemeToggle: true
