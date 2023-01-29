@@ -38,10 +38,10 @@ params:
         description: |
 
           Graphical & DJ Works
-        imageUrl: "/images/logo.png"
+        imageUrl: "/images/onna_mule.png"
         imageTitle: my image
-        imageWidth: 330
-        imageHeight: 450
+        imageWidth: 450
+        imageHeight: 611
         
     mainSections:
       - graphics
