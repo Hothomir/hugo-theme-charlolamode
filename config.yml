@@ -40,8 +40,8 @@ params:
           Graphical & DJ Works
         imageUrl: "/images/onna_mule.png"
         imageTitle: my image
-        imageWidth: 450
-        imageHeight: 611
+        imageWidth: 400
+        imageHeight: 545
         
     mainSections:
       - graphics
