@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Redaction';
+    src: url(fonts/Redaction_50-Bold.woff2);
+}
+
 html {
     -webkit-tap-highlight-color: transparent;
     overflow-y: scroll;
@@ -28,6 +33,8 @@ body {
     word-break: break-word;
     background: var(--theme);
 }
+
+
 
 article,
 aside,
@@ -112,8 +119,8 @@ textarea:-webkit-autofill {
 
 img {
     display: block;
-    max-width: 100%;
 }
+
 
 ::-webkit-scrollbar-track {
     background: 0 0;
