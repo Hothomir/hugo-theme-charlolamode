@@ -11,6 +11,8 @@
 .post-description {
     margin-top: 10px;
     margin-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Redaction 35 Reg';
     text-align: justify;
 }
 
@@ -31,6 +33,7 @@
 
 .breadcrumbs a {
     font-size: 16px;
+    font-family: 'Redaction 35 Reg';
 }
 
 .post-content {

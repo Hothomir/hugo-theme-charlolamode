@@ -11,7 +11,7 @@
 }
 
 .profile .profile_inner h1 {
-    padding: 5px 0;
+    padding: 12px 0;
 }
 
 .profile img {
@@ -42,10 +42,11 @@
 }
 
 .profile-description {
-    margin: 5px;
+    margin: 10px;
     color: var(--secondary);
     font-size: 20px;
-    line-height: 1.6;
+    font-family: 'Redaction 35 Reg';
+    line-height: 0.4;
     display: --webkit-box;
     --webkit-box-orient: vertical
 }
