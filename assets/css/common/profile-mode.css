@@ -19,6 +19,10 @@
     pointer-events: none;
 }
 
+.dark .profile img {
+    filter: invert(1);
+}
+
 .buttons {
     flex-wrap: wrap;
     max-width: 400px;
