@@ -43,6 +43,9 @@ params:
         imageWidth: 400
         imageHeight: 545
         
+        buttons:
+            - name: Contact
+              url: mailto:jaskula242@gmail.com
     mainSections:
       - graphics
 
