@@ -38,6 +38,9 @@
 
 .post-content {
     color: var(--content);
+    margin-bottom: var(--content-gap);
+    font-family: 'Redaction 35 Reg';
+
 }
 
 .post-content h3,
@@ -49,7 +52,7 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 4px;
+
 }
 
 .post-content h2 {

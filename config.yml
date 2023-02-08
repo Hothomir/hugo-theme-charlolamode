@@ -7,6 +7,10 @@ theme: charlolamode
 
 menu:
     main:
+        - name: About
+          url: /about/
+          weight: 15
+          
         - name: Graphics
           url: /graphics/
           weight: 15
@@ -47,6 +51,7 @@ params:
             - name: Contact
               url: mailto:jaskula242@gmail.com
     mainSections:
+      - about
       - graphics
 
     socialIcons:
