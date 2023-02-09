@@ -10,8 +10,9 @@ Onna Mule began in 2022 a hub for all works by Bartosz Jaskulski. Currently, Onn
 
 More may add on, or some might change.
 
-If interested in some commissioned graphic work, feel free to reach out to me at my [email](mailto::jaskula242@gmail.com) or on my [Instagram](https://www.instagram.com/onna_mule.arts/) page. Portfolio can be seen on the "Graphics" tab :)
+If interested in some commissioned graphic work, feel free to reach out to me at [email](mailto::jaskula242@gmail.com) or on [Instagram](https://www.instagram.com/onna_mule.arts/) page. Portfolio can be seen on the "Graphics" tab (-‿◦)
 
+---
 # Current Ongoing Projects
 
 ## Pol Haus
