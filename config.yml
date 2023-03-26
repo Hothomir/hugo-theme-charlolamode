@@ -44,8 +44,8 @@ params:
           Graphical & DJ Works
         imageUrl: "/images/onna_mule.png"
         imageTitle: my image
-        imageWidth: 400
-        imageHeight: 545
+        imageWidth: 300
+        imageHeight: 409
         
         buttons:
             - name: Contact

@@ -2,8 +2,7 @@
 title: About
 ---
 
-# Who is "Onna Mule"
-Onna Mule began in 2022 a hub for all works by Bartosz Jaskulski. Currently, Onna Mule shows the following:
+Onna Mule began in 2022 a hub for all works by Bartosz Jaskulski. Having fun in:
 
 - Graphical Works
 - DJ Works
