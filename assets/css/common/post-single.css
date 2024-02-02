@@ -12,7 +12,7 @@
     margin-top: 10px;
     margin-bottom: 5px;
     font-size: 20px;
-    font-family: 'Redaction 35 Reg';
+    font-family: 'AUTHENTIC Sans Condensed 90';
     text-align: justify;
 }
 
@@ -33,13 +33,13 @@
 
 .breadcrumbs a {
     font-size: 16px;
-    font-family: 'Redaction 35 Reg';
+    font-family: 'AUTHENTIC Sans Condensed 90';
 }
 
 .post-content {
     color: var(--content);
     margin-bottom: var(--content-gap);
-    font-family: 'Redaction 35 Reg';
+    font-family: 'AUTHENTIC Sans Condensed 90';
 
 }
 

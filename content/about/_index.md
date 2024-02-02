@@ -10,7 +10,7 @@ If interested in some commissioned graphic work, feel free to reach out on [emai
 
 
 ---
-# Pol Haus
+## Pol Haus
 
 Monthly radio program on WKDU Philadelphia 91.7 FM. Mixing to my hearts content ❤️
 
