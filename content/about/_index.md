@@ -1,23 +1,19 @@
 ---
 title: About
 ---
+living life in Philly, PA
 
-Onna Mule began in 2022 a hub for all works by Bartosz Jaskulski. Having fun in:
-
-- Graphical Works
-- DJ Works
-
-More may add on, or some might change.
+⟬Graphical Works⟭ ⟬DJ Works⟭
 
 If interested in some commissioned graphic work, feel free to reach out on [email](mailto::jaskula242@gmail.com) or on [Instagram](https://www.instagram.com/onna_mule.arts/). Portfolio can be seen on the "Graphics" tab (-‿◦)
 
 ---
-# Current Ongoing Projects
+# Pol Haus
 
-## Pol Haus
+Monthly radio program on WKDU Philadelphia 91.7 FM. Mixing to my hearts content ❤️
 
-A 60-minute radio program on WKDU Philadelphia 91.7 FM. Each week, a genrespace is heavily focused upon either in the format of a typical radio mix, or a more electronic CDJ mix.
+Typically mixing techno, hard groove, tech house, hard stuff. Sometimes like to change it up tho \\(￣︶￣*\\))
 
-Genres can vary from house, jazz, disco house, gabber, dnb, bossa nova, elevator, etc.
+Latest Mixes →[CLICK HERE NOW!!!](https://soundcloud.com/onna_mule/sets/pol-haus-2023)←
 
-Archived Shows: [link](https://soundcloud.com/onna_mule)
+{{< soundcloud-playlist 1567269010 >}}
