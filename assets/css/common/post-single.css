@@ -140,6 +140,11 @@
     margin-bottom: 32px;
 }
 
+.scaled-image {
+    width: 50%;
+    height: auto;
+}
+
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
